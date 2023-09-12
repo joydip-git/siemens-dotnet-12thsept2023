@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AB6D125E-E7E9-46E1-9243-4D6001F977D9}</ProjectGuid>
+    <ProjectGuid>{A035A206-DBC4-4462-9487-025384A7F5BF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CalculationUserInterface</RootNamespace>
-    <AssemblyName>CalculationUserInterface</AssemblyName>
+    <RootNamespace>ClientApp</RootNamespace>
+    <AssemblyName>ClientApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,15 +45,14 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Utilities\UiUtility.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CalculationLibrary\CalculationLibrary.csproj">
-      <Project>{383ef443-4688-479a-af70-a85695b5bcde}</Project>
-      <Name>CalculationLibrary</Name>
+    <ProjectReference Include="..\NamespaceLibrary\NamespaceLibrary.csproj">
+      <Project>{5a2ac09f-1778-405f-b322-1a61d7ed0dd9}</Project>
+      <Name>NamespaceLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

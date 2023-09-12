@@ -1,0 +1,7 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\ArrayDemo\bin\Debug\ArrayDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\ArrayDemo\bin\Debug\ArrayDemo.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\ArrayDemo\obj\Debug\ArrayDemo.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\ArrayDemo\obj\Debug\ArrayDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\ArrayDemo\obj\Debug\ArrayDemo.pdb

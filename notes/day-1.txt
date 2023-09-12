@@ -1,3 +1,5 @@
+https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/
+
 C# (CSharp)
 	- object oriented programming language
 	- type safe language
@@ -90,7 +92,41 @@ Conversion:
 	string s = "12";
 	int val = int.Parse(s);
 
-	Convert.ToDouble();
+	explicit conversion technique:
+	Convert class methods (static) => anything to something
+	Parse method => used to convert string to something
+
+	char and many other data types do have lots of static methods
+	char => IsUpper(), IsLower(), ToUpper(), ToLower(), Parse, TryParse
+	int => Parse, TryParse
+
+	best practices:
+	a. naming convention of class (upper-case camel casing or pascal casing), methods(upper-case camel casing or pascal casing), local variables (lowercase camel  casing)
+	b. clas name should be like: noun, method names should be like: verb
+	c. single responsibility - class and methods
+
+	debugging: 
+	set breakpoint, line by line execution => step into (F11) and step over (F10)
+	debug windows: 
+		Locals window=> shows all local variables in the method currently getting executed
+		Autos window=> shows all local variables in the code line currently getting executed/in focus
+		Watch window=> shows values of local variable(s) in the method currently getting executed. but you have to type the name of the variable(s)
+	   Quick Watch window=> shows value(s) of local variable(s) in the method currently getting executed by right clicking on the variable name(s) in the code editor.
+
+	static class: a class declared with static keyword must have all members static. You can't create instance of this class. Can be imported (using) statically using new feature of C#, known as, static import feature
+	static class A{}
+	using static namespacename.A;
+
+	namespace:
+	Logical name to group co-related types
+	By default the namespace name of an application is same as that of the application name itself, which can be changed.
+
+	public class DbDataReader{}
+	public class FileDataReader{}
+
+	public class Rectangle{}
+	public class Triangle{}
+	
 
 
 

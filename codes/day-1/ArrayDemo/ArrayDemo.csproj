@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AB6D125E-E7E9-46E1-9243-4D6001F977D9}</ProjectGuid>
+    <ProjectGuid>{1C06C026-F530-4014-B41A-5FE0B0F037DD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CalculationUserInterface</RootNamespace>
-    <AssemblyName>CalculationUserInterface</AssemblyName>
+    <RootNamespace>ArrayDemo</RootNamespace>
+    <AssemblyName>ArrayDemo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,16 +45,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Utilities\UiUtility.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\CalculationLibrary\CalculationLibrary.csproj">
-      <Project>{383ef443-4688-479a-af70-a85695b5bcde}</Project>
-      <Name>CalculationLibrary</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

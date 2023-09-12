@@ -1,0 +1,6 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\NamespaceDemo\NamespaceLibrary\bin\Debug\NamespaceLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\NamespaceDemo\NamespaceLibrary\bin\Debug\NamespaceLibrary.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\NamespaceDemo\NamespaceLibrary\obj\Debug\NamespaceLibrary.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\NamespaceDemo\NamespaceLibrary\obj\Debug\NamespaceLibrary.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\NamespaceDemo\NamespaceLibrary\obj\Debug\NamespaceLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\NamespaceDemo\NamespaceLibrary\obj\Debug\NamespaceLibrary.pdb
