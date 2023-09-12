@@ -1,0 +1,10 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\HelloWorldApp\bin\Debug\WelcomeLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\HelloWorldApp\bin\Debug\WelcomeLibrary.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CopyComplete
