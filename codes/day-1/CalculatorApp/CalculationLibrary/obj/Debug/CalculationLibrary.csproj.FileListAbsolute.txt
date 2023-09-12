@@ -1,0 +1,6 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\CalculatorApp\CalculationLibrary\bin\Debug\CalculationLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\CalculatorApp\CalculationLibrary\bin\Debug\CalculationLibrary.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\CalculatorApp\CalculationLibrary\obj\Debug\CalculationLibrary.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\CalculatorApp\CalculationLibrary\obj\Debug\CalculationLibrary.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\CalculatorApp\CalculationLibrary\obj\Debug\CalculationLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-1\CalculatorApp\CalculationLibrary\obj\Debug\CalculationLibrary.pdb

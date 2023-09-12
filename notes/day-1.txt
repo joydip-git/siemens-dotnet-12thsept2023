@@ -79,6 +79,20 @@ control flow statements:
 	for(int i=0;i<3;i++){}
 	foreach(int item in arr){}
 
+Conversion:
+	implicit conversion: 
+   short s = 12;
+	int i = s;
+
+	Console.WriteLine(12);
+	
+	explicit conversion:
+	string s = "12";
+	int val = int.Parse(s);
+
+	Convert.ToDouble();
+
+
 
 
 	
