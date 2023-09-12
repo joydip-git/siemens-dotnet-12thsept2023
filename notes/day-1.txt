@@ -24,6 +24,66 @@ Framework:
 
 	Note: mscorlib.dll => microsoft common object runtime library
 	mscoree.dll => microsoft common object runtime execution engine
+
+
+Basics
+	- data types
+	- operators
+	- control flow statements
+	- array
+OOP
+Advanced
+
+							data types
+-------------------------------------------------------------
+
+Value Type								Reference Type
+----------------------------------------------------------------------
+built-in	user-defined			built-in	user-defined
+byte		struct					String		class 
+sbyte		enum					Object		interface
+short											delegate
+ushort											event
+int
+uint
+long
+ulong
+
+float (8)
+decimal (16)
+double (32)
+
+char
+bool
+DateTime
+TimeSpan
+
+Operators:
+	logical: && || 
+	relational: >, < >= <=
+	equality: == !=
+	arithmetic: + - * / %
+	assignment: += -= *= /= %=
+
+	unary: ++, --
+	ternary: ?:
+
+	int res = a>b?a:b;
+
+
+control flow statements:
+	if..else, nested if else
+	switch
+	while(condition){}
+	do{}while(condition);
+	for(int i=0;i<3;i++){}
+	foreach(int item in arr){}
+
+
+
+	
+
+
 	
 
 	
