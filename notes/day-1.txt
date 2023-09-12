@@ -1,1 +1,31 @@
-https://github.com/joydip-git/siemens-dotnet-12thsept2023
+C# (CSharp)
+	- object oriented programming language
+	- type safe language
+	- case-sensitive language
+	- high level programming language
+
+Framework:
+	platform	to code, compile, test and deploy an application following some rules or guidelines
+	- platform neutrality
+	- crosss language and technology interoperability
+	Note: DotNet provides CTS (Common Type System)=> a data type system in IL (Intemediate language code)
+	DotNet languages follow a common guideline - CLS (Common language Specification)
+
+	Microsoft => DotNet (.NET Framework - 2002)
+	Programming Languages: VB.NET, VC#.NET, VF#.NET, VJ#.NET, VC++.NET, ...
+	S/W: Integrated Development Environment (IDE) => Visual Studio 2022
+	
+	components:
+	a. Library => Base Class Library/Framework Library (BCL/FCL)
+	b. CLR => Common Language Runtime
+	c. ASP.NET => mini web-framework in .NET Frameowrk to create web applications (Active Server Pages .NET)
+	d. ADO.NET => data access technology (ActiveX Data Object .NET)
+	e. User Interface: 
+
+	Note: mscorlib.dll => microsoft common object runtime library
+	mscoree.dll => microsoft common object runtime execution engine
+	
+
+	
+
+	
