@@ -1,0 +1,12 @@
+class and object:
+access specifiers for class members: private (be default), protected, public, internal, internal protected
+
+access specifiers for class: internal and public
+
+new features:
+	static import
+	new style of writing property using arrow operator
+	string interpolation
+
+Jagged Array
+keyword: params
