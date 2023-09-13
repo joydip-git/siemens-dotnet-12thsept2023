@@ -1,0 +1,10 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\InheritanceDemo\bin\Debug\ClsLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\InheritanceDemo\bin\Debug\ClsLibrary.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CopyComplete
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

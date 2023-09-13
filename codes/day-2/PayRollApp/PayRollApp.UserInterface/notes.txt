@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using PayRollApp.Entities;
+
+namespace PayRollApp.UserInterface
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            /*
+             *   short x = 10;
+                int y = x;
+                short z = (short)y;
+                //short z = y as short;
+             */
+            //up-casting (implicit type of conversion)
+            //a reference variable of base class can store the reference of any child class object
+            Developer developer = new Developer(1, "anil", 1, 1, 1, 1);
+            Hr hr = new Hr(2, "sunil", 2, 2, 2, 2);
+
+            PrintSalary(developer);
+            PrintSalary(hr);
+        }
+        //static void PrintSalary(Developer developer)
+        //{
+        //    developer.CalculateSalary();
+        //    Console.WriteLine(developer.TotalSalary);
+        //}
+        //static void PrintSalary(Hr hr)
+        //{
+        //    hr.CalculateSalary();
+        //    Console.WriteLine(hr.TotalSalary);
+        //}
+        static void PrintSalary(Employee employee)
+        {
+            employee.CalculateSalary();
+            Console.WriteLine(employee.TotalSalary);
+            //if (employee is Developer)
+            //{
+            //    //down-casting: exeplicit conversion
+            //    //storing the reference of the child class object back in the variable of child class itself
+            //    Developer developer = (Developer)employee;
+
+            //}
+            //if (employee is Hr)
+            //{
+            //    //down-casting: exeplicit conversion
+            //    //storing the reference of the child class object back in the variable of child class itself
+            //    Hr hr = employee as Hr;
+
+            //}
+        }
+    }
+}

@@ -1,12 +1,42 @@
 class and object:
-access specifiers for class members: private (be default), protected, public, internal, internal protected
 
-access specifiers for class: internal and public
+access specifiers for class members: 
 
+a. private (by default): accessible within the same class ONLY
+b. protected: accessible within the same class and the child classes ONLY
+c. public: everywhere
+internal member of  a class: within the same application it is like a public, whereas outside the application it is like private
+internal protected member of  a class: within the same application it is like a public, whereas outside the application it is like protected
+
+access specifiers for class: 
+internal: class is accessible within the application but inaccessible from outside the application
+public: class is accessible within the application as well as from outside the application
+
+inheritance:
+	class A{ 
+	public void Foo(){}
+	public void Foo1(){}
+}
+
+	class B{ 
+	public void Foo(){}
+	public void Foo2(){}
+}
+	class C: A, B{
+	
+	}
+
+main(){
+ C obj = new C();
+ obj.Foo();
+
+}
 new features:
 	static import
 	new style of writing property using arrow operator
 	string interpolation
+
+
 
 Jagged Array
 keyword: params

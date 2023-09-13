@@ -1,0 +1,6 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\PayRollApp\PayRollApp.Entities\bin\Debug\PayRollApp.Entities.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\PayRollApp\PayRollApp.Entities\bin\Debug\PayRollApp.Entities.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\PayRollApp.Entities.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\PayRollApp.Entities.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\PayRollApp.Entities.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\PayRollApp\PayRollApp.Entities\obj\Debug\PayRollApp.Entities.pdb

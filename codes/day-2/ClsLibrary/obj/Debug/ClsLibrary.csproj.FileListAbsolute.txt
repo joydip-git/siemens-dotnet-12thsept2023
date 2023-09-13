@@ -1,0 +1,6 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\ClsLibrary\bin\Debug\ClsLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\ClsLibrary\bin\Debug\ClsLibrary.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\ClsLibrary\obj\Debug\ClsLibrary.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\ClsLibrary\obj\Debug\ClsLibrary.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\ClsLibrary\obj\Debug\ClsLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-2\ClsLibrary\obj\Debug\ClsLibrary.pdb
