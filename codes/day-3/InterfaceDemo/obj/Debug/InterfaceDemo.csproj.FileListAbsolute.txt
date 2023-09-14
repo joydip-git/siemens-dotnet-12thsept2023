@@ -1,0 +1,7 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

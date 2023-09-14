@@ -28,4 +28,95 @@ Security =>
 
 745795335
 
+Implementation of GetHashCode and Equals method:
+	in case of HashSet<> class
+
+Abstract class and Abstract Method:
+	- a method with declaration but without any definition (code) is an abstract method
+		- property
+		- method
+	- you can't call an abstract method and create instance of an abstract class
+	- abstract class can have data members, constructors as well as non-abstract (concrete) methods and properties	
+	- it helps you with dynamic polymorphism
+	- if any child class inherits from abstract base class, it must implement all the abstract members, otherwise it has to be declared with abstract keyword
+	- abstractness is a way to force child classes to inherit as well as implement some functionalities
+
+Interface:
+	a pure abstract class
+   it can contain ONLY abstract members (methods and properties)
+	you can't write any explicit constructor in interface
+	you can't declare any data member in interface
+	you can't call any abstract method of interface and create instance of an interface
+	it helps you with dynamic polymorphism
+	in interface the methods or properties are by default abstract and public, so don't use public access spcifier and abstract access modifier with members of interface
+
+	interface is meant to be implemented in a class
+	any class implementing the interface MUST implement the abstract members, otherwise it has to be declared with abstract keyword and the methods from interface still have to be written in that abstract class with public and abstract keywords 
+	while imlementing interface members in the class, no need to use override keyword
+
+
+class DataAcces{
+	string path;
+	public abstract void GetData();
+	public abstract void WriteData(data);
+}
+
+class DbDataAccess:DataAccess{
+	public override void GetData(){}
+	public override void WriteData(data){}
+}
+
+class FileDataAccess:DataAccess{
+	public override void GetData(){}
+	public override void WriteData(data){}
+}
+
+
+You can use override keyword with a method from base class, where base class method is declard with
+	- virtaul
+	- override
+	- abstract
+
+abstract class A{
+	public abstract void Foo1();
+	public abstract void Foo2();
+	public abstract void Foo3();
+}
+abstract class B:A{
+	public override void Foo1(){}
+}
+abstract class C:B{
+	//public override void Foo1(){} <-- optional
+	public override void Foo2(){} <-- mandatory
+}
+class D:C{
+	//public override void Foo1(){} <-- optional
+	//public override void Foo2(){} <-- optional
+	public override void Foo3(){} <-- mandatory
+}
+
+interface IA{
+	void Foo();
+	void Foo1();
+}
+abstract class A: IA{
+	public void Foo(){}
+	public abstract void Foo1();
+}
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
 
