@@ -1,0 +1,6 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OutstandingPersonApp\OutstandingPersonApp.Entities\bin\Debug\OutstandingPersonApp.Entities.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OutstandingPersonApp\OutstandingPersonApp.Entities\bin\Debug\OutstandingPersonApp.Entities.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\OutstandingPersonApp.Entities.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\OutstandingPersonApp.Entities.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\OutstandingPersonApp.Entities.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\OutstandingPersonApp.Entities.pdb
