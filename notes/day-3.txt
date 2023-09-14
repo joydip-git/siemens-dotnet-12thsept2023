@@ -104,6 +104,29 @@ abstract class A: IA{
 	public abstract void Foo1();
 }
 
+Relationships:
+	a. is-a
+	b. has-a
+
+1. association: 1st entity <-- one to many-->2nd entity
+2. part-whole:
+	ii. aggregation: one entity (whole) shares 1 to many relationship with the other(part) and the existence of the part is NOT solely dependent on the whole
+	iii. composition: one entity (whole) shares 1 to many relationship with the other(part) and the existence of the part is solely dependent on the whole
+
+
+rooms:
+room_id(pk) room_name					building_id(fk)
+1				Conference Room-M04		1
+2				Training Room - L5		3
+
+buildings:
+building_id(pk) building_name		
+1						Siemens Health		
+2						Siemens S&T
+
+
+
+
 
 
 

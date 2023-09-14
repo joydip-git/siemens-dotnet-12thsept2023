@@ -1,0 +1,10 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Client\bin\Debug\ShapeCalculatorApp.Client.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Client\bin\Debug\ShapeCalculatorApp.Client.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Client\bin\Debug\ShapeCalculatorApp.Client.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Client\bin\Debug\ShapeCalculatorApp.Shapes.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Client\bin\Debug\ShapeCalculatorApp.Shapes.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Client\obj\Debug\ShapeCalculatorApp.Client.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Client\obj\Debug\ShapeCalculatorApp.Client.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Client\obj\Debug\ShapeCalculatorApp.Client.csproj.CopyComplete
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Client\obj\Debug\ShapeCalculatorApp.Client.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Client\obj\Debug\ShapeCalculatorApp.Client.pdb

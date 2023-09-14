@@ -1,0 +1,6 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Shapes\bin\Debug\ShapeCalculatorApp.Shapes.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Shapes\bin\Debug\ShapeCalculatorApp.Shapes.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Shapes\obj\Debug\ShapeCalculatorApp.Shapes.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Shapes\obj\Debug\ShapeCalculatorApp.Shapes.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Shapes\obj\Debug\ShapeCalculatorApp.Shapes.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\ShapeCalculatorApp\ShapeCalculatorApp.Shapes\obj\Debug\ShapeCalculatorApp.Shapes.pdb
