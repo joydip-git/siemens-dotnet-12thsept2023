@@ -1,0 +1,31 @@
+polymorphism:
+	compile-time/static:
+		method overloading (constructor overloading)
+		operator overloading
+	run-time/dynamic:
+		method overriding (virtul - with base and override with child)
+		virtual -> override -> override
+
+	
+Equality:
+	a. override Equals method of Object class
+	b. overload == and != operator
+	c. override GetHashCode method of Object class
+
+Security =>
+	a. Hashing => 
+	b. encryption => 
+	c. digital signature
+
+
+	data => function <= seed (key)
+				hash code
+
+	data-block1 + random => function => 1st Hash Code
+	data-block2 + 1st Hash Code => function => 2nd Hash Code
+	..........................................................
+	data-block100 + 99th hash code => function => 100th Hash Code
+
+745795335
+
+

@@ -1,0 +1,7 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OperatorOverloadingDemo\bin\Debug\OperatorOverloadingDemo.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OperatorOverloadingDemo\bin\Debug\OperatorOverloadingDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OperatorOverloadingDemo\bin\Debug\OperatorOverloadingDemo.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OperatorOverloadingDemo\obj\Debug\OperatorOverloadingDemo.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OperatorOverloadingDemo\obj\Debug\OperatorOverloadingDemo.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OperatorOverloadingDemo\obj\Debug\OperatorOverloadingDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-3\OperatorOverloadingDemo\obj\Debug\OperatorOverloadingDemo.pdb
