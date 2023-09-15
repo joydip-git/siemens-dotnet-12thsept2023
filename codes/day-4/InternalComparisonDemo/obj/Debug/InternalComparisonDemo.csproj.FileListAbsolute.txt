@@ -1,0 +1,7 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\InternalComparisonDemo\bin\Debug\InternalComparisonDemo.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\InternalComparisonDemo\bin\Debug\InternalComparisonDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\InternalComparisonDemo\bin\Debug\InternalComparisonDemo.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\InternalComparisonDemo\obj\Debug\InternalComparisonDemo.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\InternalComparisonDemo\obj\Debug\InternalComparisonDemo.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\InternalComparisonDemo\obj\Debug\InternalComparisonDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\InternalComparisonDemo\obj\Debug\InternalComparisonDemo.pdb

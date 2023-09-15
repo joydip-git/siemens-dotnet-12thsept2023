@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrayAndParamsDemo", "JaggedArrayAndParamsDemo.csproj", "{10A6495D-8109-4966-B58D-3985F93DF31F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterArrayExample", "..\ParameterArrayExample\ParameterArrayExample.csproj", "{031A85AE-B5AD-4E35-901E-6CEBAB994424}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{10A6495D-8109-4966-B58D-3985F93DF31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10A6495D-8109-4966-B58D-3985F93DF31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10A6495D-8109-4966-B58D-3985F93DF31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{031A85AE-B5AD-4E35-901E-6CEBAB994424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031A85AE-B5AD-4E35-901E-6CEBAB994424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031A85AE-B5AD-4E35-901E-6CEBAB994424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031A85AE-B5AD-4E35-901E-6CEBAB994424}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

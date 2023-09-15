@@ -47,3 +47,32 @@ i. local functions (7.0 - 2017)
 	* Local function has access to local variables and the arguments passed to the parent function, but can't access the arguments of the function declared with ref and out keyword
 
 
+namespace: system
+				IComparable									IComparable<T>
+				int CompareTo(Object o)				int CompareTo(int other)
+
+							Collections						Generic Collections
+namespace:	System.Collections						System.Collections.Generic
+
+interfaces: 
+				IEumerable 									IEnumerable<T>
+				(IEnumerator GetEnumerator();)  	(IEnumerator<T> GetEnumerator();)
+				IEnumerator:								IEnumerator<T>:
+				
+				ICollection 								ICollection<T>
+				IList											IList<T>
+				IComparer:									IComparer<T>:
+				int Compare(Object a, Object b)   int Compare(T a, T b)
+
+
+classes:		ArrayList									List<T>
+				Stack											Stack<T>
+				Queue											Queue<T>	
+
+				------										HashSet<T>
+
+				HashTable									Dictionary<TKey,TValue>
+				SortedList									SortedList<TKey,TValue>
+
+structure: DictionaryEntry							KeyValuePair<TKey,TValue>
+

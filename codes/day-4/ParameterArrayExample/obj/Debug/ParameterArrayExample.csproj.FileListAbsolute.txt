@@ -1,0 +1,7 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ParameterArrayExample\bin\Debug\ParameterArrayExample.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ParameterArrayExample\bin\Debug\ParameterArrayExample.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ParameterArrayExample\bin\Debug\ParameterArrayExample.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ParameterArrayExample\obj\Debug\ParameterArrayExample.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ParameterArrayExample\obj\Debug\ParameterArrayExample.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ParameterArrayExample\obj\Debug\ParameterArrayExample.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ParameterArrayExample\obj\Debug\ParameterArrayExample.pdb
