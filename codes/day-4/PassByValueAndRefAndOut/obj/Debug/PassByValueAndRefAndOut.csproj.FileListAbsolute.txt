@@ -1,0 +1,7 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\PassByValueAndRefAndOut\bin\Debug\PassByValueAndRefAndOut.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\PassByValueAndRefAndOut\bin\Debug\PassByValueAndRefAndOut.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\PassByValueAndRefAndOut\bin\Debug\PassByValueAndRefAndOut.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\PassByValueAndRefAndOut\obj\Debug\PassByValueAndRefAndOut.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\PassByValueAndRefAndOut\obj\Debug\PassByValueAndRefAndOut.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\PassByValueAndRefAndOut\obj\Debug\PassByValueAndRefAndOut.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\PassByValueAndRefAndOut\obj\Debug\PassByValueAndRefAndOut.pdb

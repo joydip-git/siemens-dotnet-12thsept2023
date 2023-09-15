@@ -1,0 +1,38 @@
+1. Jagged Array and params keyword
+2. ref and out keyword
+3. new features
+
+4. Generics
+5. collections and Generic Collections
+6. Exception Handling
+7. Delegates
+8. IO (file handling)
+9. Reflection
+10. Serialization
+
+New features:
+a. string interpolation: $"{value}"; (6.0 - 2015)
+b. auto-propeties (3.0 - 2007)
+	class Person{
+		//private string _Name;
+		//public string Name {set=> _Name = value; get=>_Name;}
+		public string Name {set; get;}
+	}
+c. static import (6.0 - 2015)
+	namespace Common{
+		public static class Utility{
+		}
+	}
+	using static Common.Utility;
+	main(){
+		//Utility.Method();
+		Method();
+	}
+d. implicitly typed variable and array (3.0 - 2007)
+e. Object initializer (3.0 - 2007)
+f. collection initializer (3.0 - 2007)
+g. optional argument with default value (4.0 - 2010)
+h. named argument (4.0 - 2010)
+i. local functions (7.0 - 2017)
+
+

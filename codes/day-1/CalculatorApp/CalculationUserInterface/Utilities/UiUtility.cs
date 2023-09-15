@@ -19,6 +19,14 @@ namespace CalculationUserInterface.Utilities
             Console.Write("\nEnter a choice[+,-,*,/,e]: ");
             return char.Parse(Console.ReadLine());
         }
+        public static void GetNumber(out int first, out int second)
+        {
+            Console.Write("\nEnter First number: ");
+            first = int.Parse(Console.ReadLine());
+
+            Console.Write("\nEnter Second number: ");
+            second = int.Parse(Console.ReadLine());
+        }
         public static int GetNumber()
         {
             Console.Write("\nEnter a number: ");
@@ -52,13 +60,27 @@ namespace CalculationUserInterface.Utilities
         {
             Console.Write("\nWould you like to continue?[y/Y/n/N]: ");
             char ch = char.Parse(Console.ReadLine());
-            return ConvertCharacterToLowerCase(ch);
+            //local function
+            char ConvertCharacterToLowerCase()
+            {
+                if (char.IsUpper(ch))
+                    ch = char.ToLower(ch);
+                return ch;
+            }
+            return ConvertCharacterToLowerCase();
+            //return ConvertCharacterToLowerCase(ch);
         }
-        private static char ConvertCharacterToLowerCase(char ch)
+        public static void DecideToContinue(ref char ch)
         {
-            if (char.IsUpper(ch))
+            Console.Write("\nWould you like to continue?[y/Y/n/N]: ");
+            //ch = char.Parse(Console.ReadLine());
+            char.TryParse(Console.ReadLine(), out ch);
+            ConvertCharacterToLowerCase(ref ch);
+        }
+        private static void ConvertCharacterToLowerCase(ref char ch)
+        {
+            if (ch != ' ' && char.IsUpper(ch))
                 ch = char.ToLower(ch);
-            return ch;
         }
     }
 }

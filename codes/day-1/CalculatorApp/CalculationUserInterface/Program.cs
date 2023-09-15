@@ -19,14 +19,18 @@ namespace CalculationUserInterface
                     break;
 
                 //3. ask user to enter two values
-                int firstNumber = GetNumber();
-                int secondNumber = GetNumber();
+                //int firstNumber = GetNumber();
+                //int secondNumber = GetNumber();
+                int firstNumber;
+                int secondNumber;
+                GetNumber(out firstNumber, out secondNumber);
                 //4. perform the operation
                 int result = Calculate(choice, firstNumber, secondNumber);
                 //5. display the result
                 WriteLine(result);
                 //6. ask for continutaion
-                continuationDecision = DecideToContinue();
+                //continuationDecision = DecideToContinue();
+                DecideToContinue(ref continuationDecision);
                 //7. continue or exit
             } while (continuationDecision != 'n');
         }

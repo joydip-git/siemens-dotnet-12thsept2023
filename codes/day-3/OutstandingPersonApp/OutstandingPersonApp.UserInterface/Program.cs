@@ -27,25 +27,25 @@ namespace OutstandingPersonApp.UserInterface
         static Person CreatePerson(int choice)
         {
             Console.Write("\nEnter Name: ");
-            string name = Console.ReadLine();
+            string personName = Console.ReadLine();
 
             Person person;
             switch (choice)
             {
                 case 1:
                     Console.Write("Enter Branch: ");
-                    string branch = Console.ReadLine();
+                    string studentBranch = Console.ReadLine();
                     Console.Write("Enter Marks: ");
-                    double marks = double.Parse(Console.ReadLine());
-                    person = new Student(name, branch, marks);
+                    double studentMarks = double.Parse(Console.ReadLine());
+                    person = new Student(branch: studentBranch, name: personName, marks: studentMarks);
                     break;
 
                 case 2:
                     Console.Write("Enter Department: ");
-                    string department = Console.ReadLine();
+                    string profDepartment = Console.ReadLine();
                     Console.Write("Enter Number Of Books Published: ");
-                    int booksPublished = int.Parse(Console.ReadLine());
-                    person = new Professor(name, department, booksPublished);
+                    int numberOfbooksPublished = int.Parse(Console.ReadLine());
+                    person = new Professor(booksPublished: numberOfbooksPublished, name: personName, department: profDepartment);
                     break;
 
                 default:
