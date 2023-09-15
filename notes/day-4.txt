@@ -34,5 +34,6 @@ f. collection initializer (3.0 - 2007)
 g. optional argument with default value (4.0 - 2010)
 h. named argument (4.0 - 2010)
 i. local functions (7.0 - 2017)
+	* Local function has access to local variables and the arguments passed to the parent function, but can't access the arguments of the function declared with ref and out keyword
 
 
