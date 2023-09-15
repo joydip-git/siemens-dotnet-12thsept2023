@@ -1,4 +1,14 @@
 1. Jagged Array and params keyword
+	id name basic da hra extra total_Salary
+	1	anil	1	1	1	NULL	3			=> Object[] first = new Object[6];
+	2	sunil	1	NULLNULL1		2			=> Object[] first = new Object[5];
+	Object[][] records = new Object[2][];
+	records[0] = first;
+	records[1] = second;
+
+	DataTable
+
+
 2. ref and out keyword
 3. new features
 

@@ -1,0 +1,7 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\JaggedArrayAndParamsDemo\bin\Debug\JaggedArrayAndParamsDemo.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\JaggedArrayAndParamsDemo\bin\Debug\JaggedArrayAndParamsDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\JaggedArrayAndParamsDemo\bin\Debug\JaggedArrayAndParamsDemo.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\JaggedArrayAndParamsDemo\obj\Debug\JaggedArrayAndParamsDemo.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\JaggedArrayAndParamsDemo\obj\Debug\JaggedArrayAndParamsDemo.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\JaggedArrayAndParamsDemo\obj\Debug\JaggedArrayAndParamsDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\JaggedArrayAndParamsDemo\obj\Debug\JaggedArrayAndParamsDemo.pdb
