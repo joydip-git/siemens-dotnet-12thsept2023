@@ -1,0 +1,4 @@
+create a .NET application with a method to calculate average of the marks of any student
+	- name of the student should be passed to the method
+	- after that variable(any) number of marks can be sent to the method
+	- the method prints the name of the student along with the average calculated based on the marks he/she has received in different assessments

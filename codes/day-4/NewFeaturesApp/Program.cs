@@ -35,8 +35,8 @@ namespace NewFeaturesApp
             //int[] arr = new int[] { 1, 2, 3, 4 };
 
             //implciitly typed array            
-            var arr = new[] { 1, 2, 3, 4 };
-            //var arr = new int[] { 1, 2, 3, 4 };
+            //var arr = new[] { 1, 2, 3, 4 };
+            var arr = new int[4];
 
             //Person person = new Person();
             //person.Name = "anil";
@@ -48,7 +48,7 @@ namespace NewFeaturesApp
             HashSet<Person> set = new HashSet<Person>
             {
                 new Person { Name = "anil", Id = 1 },
-                new Person { Name = "sunil", Id = 2 }
+                new Person { Name = "anil", Id = 1 }
             };
 
             void Foo1()
