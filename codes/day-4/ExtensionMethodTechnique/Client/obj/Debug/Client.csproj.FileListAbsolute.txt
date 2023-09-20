@@ -1,0 +1,12 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\bin\Debug\Client.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\bin\Debug\Client.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\bin\Debug\Client.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\bin\Debug\CalculationLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\bin\Debug\CalculationLibrary.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\obj\Debug\Client.csproj.CopyComplete
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\obj\Debug\Client.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\obj\Debug\Client.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\bin\Debug\CalculationExtensionLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\Client\bin\Debug\CalculationExtensionLibrary.pdb

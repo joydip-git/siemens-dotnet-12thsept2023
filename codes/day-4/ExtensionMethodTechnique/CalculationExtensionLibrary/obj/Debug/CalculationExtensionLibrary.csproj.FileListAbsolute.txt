@@ -1,0 +1,9 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\CalculationExtensionLibrary\bin\Debug\CalculationExtensionLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\CalculationExtensionLibrary\bin\Debug\CalculationExtensionLibrary.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\CalculationExtensionLibrary\bin\Debug\CalculationLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\CalculationExtensionLibrary\bin\Debug\CalculationLibrary.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\CalculationExtensionLibrary\obj\Debug\CalculationExtensionLibrary.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\CalculationExtensionLibrary\obj\Debug\CalculationExtensionLibrary.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\CalculationExtensionLibrary\obj\Debug\CalculationExtensionLibrary.csproj.CopyComplete
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\CalculationExtensionLibrary\obj\Debug\CalculationExtensionLibrary.dll
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExtensionMethodTechnique\CalculationExtensionLibrary\obj\Debug\CalculationExtensionLibrary.pdb

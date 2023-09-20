@@ -1,0 +1,7 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\ExtensionMethodsOfCollection\bin\Debug\ExtensionMethodsOfCollection.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\ExtensionMethodsOfCollection\bin\Debug\ExtensionMethodsOfCollection.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\ExtensionMethodsOfCollection\bin\Debug\ExtensionMethodsOfCollection.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\ExtensionMethodsOfCollection\obj\Debug\ExtensionMethodsOfCollection.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\ExtensionMethodsOfCollection\obj\Debug\ExtensionMethodsOfCollection.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\ExtensionMethodsOfCollection\obj\Debug\ExtensionMethodsOfCollection.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\ExtensionMethodsOfCollection\obj\Debug\ExtensionMethodsOfCollection.pdb
