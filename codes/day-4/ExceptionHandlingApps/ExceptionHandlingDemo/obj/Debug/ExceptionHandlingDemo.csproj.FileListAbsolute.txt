@@ -1,0 +1,7 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExceptionHandlingApps\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExceptionHandlingApps\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExceptionHandlingApps\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExceptionHandlingApps\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExceptionHandlingApps\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExceptionHandlingApps\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-4\ExceptionHandlingApps\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.pdb

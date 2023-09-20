@@ -33,3 +33,9 @@ b. how to declare a variable of delegate to store the reference of the method(s)
 		- through the reference variable of the class object (if the method is non-static)
 
 c. how to use delegate to invoke the method(s)
+
+
+Exception
+	SystemException
+		
+	ApplicationException
