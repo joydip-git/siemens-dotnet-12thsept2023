@@ -28,6 +28,39 @@ namespace ExtensionMethodsOfCollection
 
             query.ToList<int>().ForEach(x => Console.WriteLine(x));
 
+            List<Product> products = new List<Product>
+            {
+                new Product { Id = 2, Name="Dell XPS", Description="New laptop from dell", Price=20000},
+                new Product { Id = 1, Name="HP Probook", Description="New laptop from hp", Price=30000},
+                new Product { Id = 3, Name="Asus zenbook", Description="New laptop from asus", Price=10000}
+            };
+
+            /*
+            Func<Product, bool> isGreaterPrice = (Product p) => p.Price > 15000;
+            Func<Product, string> nameSorting = (Product p) => p.Name;
+            Action<Product> printProduct = (Product p) => Console.WriteLine(p);
+
+            products
+                .OrderBy(nameSorting)
+                .Where(isGreaterPrice)
+                .ToList<Product>()
+                .ForEach(printProduct);
+            */
+            products
+               .OrderBy((p) => p.Name)
+               .Where((p) => p.Price > 15000)
+               .ToList<Product>()
+               .ForEach((p) => Console.WriteLine(p));
+
+            var productQuery = from p in products
+                               orderby p.Name
+                               where p.Price > 15000
+                               select p;
+
+            foreach (var item in productQuery)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
