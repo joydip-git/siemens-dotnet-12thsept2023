@@ -1,0 +1,35 @@
+1. Delegates
+2. New features: 
+2.a. Anonymous methods
+2.b Extension Methods
+2.c. Anonymous class
+2.d. Lambda Expression
+3. Exception Handling
+
+Delegates:
+a reference to method(s)
+using the reference to the method you can invoke the method
+you can even pass the reference to the method(s) to another method as an argument(s)
+
+a. declare a delegate, which will be used to invoke method(s)
+	delegate <return-type> delegate-name(arguments)
+	i. the decalartion of delegate (return type and arguments) should match to that of the method(s) that you are trying to invoke using the delegate.
+
+	example:
+	public int Add(int first, int second)
+	{
+    return first + second;
+	}
+	delegate:
+	delegate int CalculationDelegate(int a, int b);
+
+	note: the return type and number, data type as well as position of the arguments should be same in both the method(s) and the delegate
+	you can't call any method(s) with a different siganture from that of the delegate
+
+b. how to declare a variable of delegate to store the reference of the method(s)
+	i. check whether the method and delegate signature matches or not
+	ii. create an instance of the delegate and to the constructor of the delegate pass the name of the function
+		- through class name (if the method is static)
+		- through the reference variable of the class object (if the method is non-static)
+
+c. how to use delegate to invoke the method(s)

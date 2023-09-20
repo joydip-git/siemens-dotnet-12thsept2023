@@ -1,0 +1,7 @@
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\DelegateImplementation\bin\Debug\DelegateImplementation.exe.config
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\DelegateImplementation\bin\Debug\DelegateImplementation.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\DelegateImplementation\bin\Debug\DelegateImplementation.pdb
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\DelegateImplementation\obj\Debug\DelegateImplementation.csproj.AssemblyReference.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\DelegateImplementation\obj\Debug\DelegateImplementation.csproj.CoreCompileInputs.cache
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\DelegateImplementation\obj\Debug\DelegateImplementation.exe
+E:\training\siemens-dotnet-12thsept2023\codes\day-5\DelagatesDemo\DelegateImplementation\obj\Debug\DelegateImplementation.pdb
